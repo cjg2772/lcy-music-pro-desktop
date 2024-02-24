@@ -1,17 +1,17 @@
-<p align="center"><a href="https://github.com/lyswhut/lcy-music-pro-mobile"><img width="200" src="https://github.com/lyswhut/lcy-music-pro-mobile/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="200" src="https://github.com/lyswhut/lx-music-mobile/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
 <p align="center">
-  <a href="https://github.com/lyswhut/lcy-music-pro-mobile/releases"><img src="https://img.shields.io/github/release/lyswhut/lcy-music-pro-mobile" alt="Release version"></a>
-  <a href="https://github.com/lyswhut/lcy-music-pro-mobile/actions/workflows/release.yml"><img src="https://github.com/lyswhut/lcy-music-pro-mobile/workflows/Build/badge.svg" alt="Build status"></a>
-  <a href="https://github.com/lyswhut/lcy-music-pro-mobile/actions/workflows/beta-pack.yml"><img src="https://github.com/lyswhut/lcy-music-pro-mobile/workflows/Build%20Beta/badge.svg" alt="Build status"></a>
-  <a href="https://github.com/facebook/react-native"><img src="https://img.shields.io/github/package-json/dependency-version/lyswhut/lcy-music-pro-mobile/react-native/master" alt="React native version"></a>
-  <!-- <a href="https://github.com/lyswhut/lcy-music-pro-mobile/releases"><img src="https://img.shields.io/github/downloads/lyswhut/lcy-music-pro-mobile/latest/total" alt="Downloads"></a> -->
-  <a href="https://github.com/lyswhut/lcy-music-pro-mobile/tree/dev"><img src="https://img.shields.io/github/package-json/v/lyswhut/lcy-music-pro-mobile/dev" alt="Dev branch version"></a>
-  <!-- <a href="https://github.com/lyswhut/lcy-music-pro-mobile/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lyswhut/lcy-music-pro-mobile" alt="License"></a> -->
+  <a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/release/lyswhut/lx-music-mobile" alt="Release version"></a>
+  <a href="https://github.com/lyswhut/lx-music-mobile/actions/workflows/release.yml"><img src="https://github.com/lyswhut/lx-music-mobile/workflows/Build/badge.svg" alt="Build status"></a>
+  <a href="https://github.com/lyswhut/lx-music-mobile/actions/workflows/beta-pack.yml"><img src="https://github.com/lyswhut/lx-music-mobile/workflows/Build%20Beta/badge.svg" alt="Build status"></a>
+  <a href="https://github.com/facebook/react-native"><img src="https://img.shields.io/github/package-json/dependency-version/lyswhut/lx-music-mobile/react-native/master" alt="React native version"></a>
+  <!-- <a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/downloads/lyswhut/lx-music-mobile/latest/total" alt="Downloads"></a> -->
+  <a href="https://github.com/lyswhut/lx-music-mobile/tree/dev"><img src="https://img.shields.io/github/package-json/v/lyswhut/lx-music-mobile/dev" alt="Dev branch version"></a>
+  <!-- <a href="https://github.com/lyswhut/lx-music-mobile/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lyswhut/lx-music-mobile" alt="License"></a> -->
 </p>
 
 
-<h2 align="center">LCY Music Pro移动版</h2>
+<h2 align="center">洛雪音乐助手移动版</h2>
 
 ### 说明
 
@@ -23,8 +23,8 @@
 
 注：不计划支持IOS
 
-软件变化请查看：[更新日志](https://github.com/lyswhut/lcy-music-pro-mobile/blob/master/CHANGELOG.md)<br>
-软件下载请转到：[发布页面](https://github.com/lyswhut/lcy-music-pro-mobile/releases)<br>
+软件变化请查看：[更新日志](https://github.com/lyswhut/lx-music-mobile/blob/master/CHANGELOG.md)<br>
+软件下载请转到：[发布页面](https://github.com/lyswhut/lx-music-mobile/releases)<br>
 或者到网盘下载（网盘内有MAC、windows版）：`https://www.lanzoui.com/b0bf2cfa/` 密码：`glqw`（若链接无法打开请百度：蓝奏云链接打不开）<br>
 使用常见问题请转至：[常见问题](https://lyswhut.github.io/lx-music-doc/mobile/faq)<br>
 桌面版项目地址：<https://github.com/lyswhut/lx-music-desktop>
@@ -54,11 +54,11 @@
 <!--
 ### UI界面
 
-<p><a href="https://github.com/lyswhut/lcy-music-pro-mobile"><img width="100%" src="https://github.com/lyswhut/lcy-music-pro-mobile/blob/master/doc/images/app.png" alt="lx-music UI"></a></p> -->
+<p><a href="https://github.com/lyswhut/lx-music-mobile"><img width="100%" src="https://github.com/lyswhut/lx-music-mobile/blob/master/doc/images/app.png" alt="lx-music UI"></a></p> -->
 
 ### 项目协议
 
-本项目基于 [Apache License 2.0](https://github.com/lyswhut/lcy-music-pro-mobile/blob/master/LICENSE) 许可证发行，以下协议是对于 Apache License 2.0 的补充，如有冲突，以以下协议为准。
+本项目基于 [Apache License 2.0](https://github.com/lyswhut/lx-music-mobile/blob/master/LICENSE) 许可证发行，以下协议是对于 Apache License 2.0 的补充，如有冲突，以以下协议为准。
 
 ---
 

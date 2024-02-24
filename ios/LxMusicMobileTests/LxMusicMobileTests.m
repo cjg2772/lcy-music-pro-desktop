@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface LCYMusicProMobileTests : XCTestCase
+@interface LxMusicMobileTests : XCTestCase
 
 @end
 
-@implementation LCYMusicProMobileTests
+@implementation LxMusicMobileTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

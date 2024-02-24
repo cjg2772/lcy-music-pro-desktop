@@ -1,5 +1,5 @@
 {
-  "name": "lcy-music-pro-mobile",
+  "name": "lx-music-mobile",
   "version": "1.2.0",
   "versionCode": 63,
   "private": true,
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyswhut/lcy-music-pro-mobile.git"
+    "url": "git+https://github.com/lyswhut/lx-music-mobile.git"
   },
   "keywords": [
     "music-player",
@@ -40,9 +40,9 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/lyswhut/lcy-music-pro-mobile/issues"
+    "url": "https://github.com/lyswhut/lx-music-mobile/issues"
   },
-  "homepage": "https://github.com/lyswhut/lcy-music-pro-mobile#readme",
+  "homepage": "https://github.com/lyswhut/lx-music-mobile#readme",
   "dependencies": {
     "@craftzdog/react-native-buffer": "^6.0.5",
     "@react-native-async-storage/async-storage": "^1.21.0",
