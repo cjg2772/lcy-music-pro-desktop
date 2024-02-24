@@ -13,5 +13,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.PAT }}
-          repository: cjg2772/lcy-music-pro-mobile-version-info
+          repository: lyswhut/lcy-music-pro-mobile-version-info
           event-type: npm-release

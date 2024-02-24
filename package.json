@@ -28,21 +28,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cjg2772/lcy-music-pro-mobile.git"
+    "url": "git+https://github.com/lyswhut/lcy-music-pro-mobile.git"
   },
   "keywords": [
     "music-player",
     "react-native-app"
   ],
   "author": {
-    "name": "cjg2772",
-    "email": "cjg2772@qq.com"
+    "name": "lyswhut",
+    "email": "lyswhut@qq.com"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/cjg2772/lcy-music-pro-mobile/issues"
+    "url": "https://github.com/lyswhut/lcy-music-pro-mobile/issues"
   },
-  "homepage": "https://github.com/cjg2772/lcy-music-pro-mobile#readme",
+  "homepage": "https://github.com/lyswhut/lcy-music-pro-mobile#readme",
   "dependencies": {
     "@craftzdog/react-native-buffer": "^6.0.5",
     "@react-native-async-storage/async-storage": "^1.21.0",
@@ -54,17 +54,17 @@
     "pako": "^2.1.0",
     "react": "18.2.0",
     "react-native": "0.73.3",
-    "react-native-background-timer": "github:cjg2772/react-native-background-timer#55ecaa80880e9cec1fff81f3ce10e6250ab3c40c",
+    "react-native-background-timer": "github:lyswhut/react-native-background-timer#55ecaa80880e9cec1fff81f3ce10e6250ab3c40c",
     "react-native-exception-handler": "^2.10.10",
     "react-native-fast-image": "^8.6.3",
-    "react-native-file-system": "github:cjg2772/react-native-file-system#cb3b807ac68c5cdb2c32ca10fdbb5e5209154ece",
+    "react-native-file-system": "github:lyswhut/react-native-file-system#cb3b807ac68c5cdb2c32ca10fdbb5e5209154ece",
     "react-native-fs": "^2.20.0",
-    "react-native-local-media-metadata": "github:cjg2772/react-native-local-media-metadata#c8377d82c04aecf5ee79d446276ab9d0c1f167be",
+    "react-native-local-media-metadata": "github:lyswhut/react-native-local-media-metadata#c8377d82c04aecf5ee79d446276ab9d0c1f167be",
     "react-native-navigation": "^7.37.2",
     "react-native-pager-view": "^6.2.3",
     "react-native-quick-base64": "^2.0.8",
     "react-native-quick-md5": "^3.0.6",
-    "react-native-track-player": "github:cjg2772/react-native-track-player#bb80e13aa8ed97224ebd3a9cce39e629d0043999",
+    "react-native-track-player": "github:lyswhut/react-native-track-player#bb80e13aa8ed97224ebd3a9cce39e629d0043999",
     "react-native-vector-icons": "^10.0.3"
   },
   "devDependencies": {

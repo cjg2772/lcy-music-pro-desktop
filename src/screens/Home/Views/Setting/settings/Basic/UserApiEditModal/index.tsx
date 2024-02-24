@@ -107,7 +107,7 @@ export default forwardRef<UserApiEditModalType, {}>((props, ref) => {
     scriptImportExportRef.current?.import()
   }
   const openFAQPage = () => {
-    void openUrl('https://cjg2772.github.io/lx-music-doc/mobile/custom-source')
+    void openUrl('https://lyswhut.github.io/lx-music-doc/mobile/custom-source')
   }
 
   return (

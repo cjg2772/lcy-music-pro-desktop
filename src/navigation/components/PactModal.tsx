@@ -16,7 +16,7 @@ const Content = () => {
   const theme = useTheme()
 
   const openHomePage = () => {
-    void openUrl('https://github.com/cjg2772/lcy-music-pro-mobile#readme')
+    void openUrl('https://github.com/lyswhut/lcy-music-pro-mobile#readme')
   }
   const openLicensePage = () => {
     void openUrl('http://www.apache.org/licenses/LICENSE-2.0')

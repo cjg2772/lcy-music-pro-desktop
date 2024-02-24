@@ -19,7 +19,7 @@ const address = [
   [`https://cdn.jsdelivr.net/gh/${author.name}/${name}/publish/version.json`, 'direct'],
   [`https://fastly.jsdelivr.net/gh/${author.name}/${name}/publish/version.json`, 'direct'],
   [`https://gcore.jsdelivr.net/gh/${author.name}/${name}/publish/version.json`, 'direct'],
-  ['https://gitee.com/cjg2772/lcy-music-pro-mobile-versions/raw/master/version.json', 'direct'],
+  ['https://gitee.com/lyswhut/lcy-music-pro-mobile-versions/raw/master/version.json', 'direct'],
   ['http://cdn.stsky.cn/lx-music/mobile/version.json', 'direct'],
 ]
 
