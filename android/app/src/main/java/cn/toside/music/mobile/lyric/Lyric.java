@@ -21,7 +21,7 @@ public class Lyric extends LyricPlayer {
   ReactApplicationContext reactAppContext;
 
   boolean isShowLyric = false;
-  // String lastText = "LX Music ^-^";
+  // String lastText = "LCY Music Pro ^-^";
   int lastLine = 0;
   List lines = new ArrayList();
   boolean isShowTranslation;

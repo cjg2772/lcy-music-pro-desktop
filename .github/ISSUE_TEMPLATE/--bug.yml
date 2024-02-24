@@ -30,7 +30,7 @@ body:
   id: version
   attributes:
     label: Lx Music 版本
-    description: 你使用什么版本的LX Music？
+    description: 你使用什么版本的LCY Music Pro？
     placeholder: 1.0.0 arm64-v8a
   validations:
     required: true
