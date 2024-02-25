@@ -1,6 +1,7 @@
 'use strict'
 
 globalThis.lx_setup = (key, id, name, description, version, author, homepage, rawScript) => {
+  console.log("run lx_setup", key, id, name, description, version, author, homepage, rawScript.substring(0, 100))
   delete globalThis.lx_setup
   const _nativeCall = globalThis.__lx_native_call__
   delete globalThis.__lx_native_call__
@@ -260,7 +261,7 @@ globalThis.lx_setup = (key, id, name, description, version, author, homepage, ra
   }
 
   const jsCall = (action, data) => {
-    // console.log('jsCall', action, data)
+    console.log('jsCall', action, data)
     switch (action) {
       case '__run_error__':
         if (!isInitedApi) isInitedApi = true
@@ -487,6 +488,7 @@ globalThis.lx_setup = (key, id, name, description, version, author, homepage, ra
         switch (eventName) {
           case EVENT_NAMES.inited:
             if (isInitedApi) return reject(new Error('Script is inited'))
+            console.log("音源的send方法触发");
             isInitedApi = true
             handleInit(data)
             resolve()
@@ -505,6 +507,7 @@ globalThis.lx_setup = (key, id, name, description, version, author, homepage, ra
       if (!eventNames.includes(eventName)) return Promise.reject(new Error('The event is not supported: ' + eventName))
       switch (eventName) {
         case EVENT_NAMES.request:
+          console.log("音源的on方法触发");
           events.request = handler
           break
         default: return Promise.reject(new Error('The event is not supported: ' + eventName))
